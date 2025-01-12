@@ -1,0 +1,445 @@
+{
+  "type": "FeatureCollection",
+  "name": "national_schools_in_kenya_cluster_1_with_mean_grades",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 1,
+        "SCHOOL": "ASUMBI GIRLS HIGH SCHOOL",
+        "COUNTY": "HOMA BAY",
+        "CODE": 41700004,
+        "TYPE": "GIRLS",
+        "LATITUDE": -0.619813,
+        "LONGITUDE": 34.613381,
+        "CLUSTER": true,
+        "MEAN_GRADE": 10.371
+      },
+      "geometry": { "type": "Point", "coordinates": [34.613381, -0.619813] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 2,
+        "SCHOOL": "BUNYORE GIRLS HIGH SCHOOL",
+        "COUNTY": "VIHIGA",
+        "CODE": 38600003,
+        "TYPE": "GIRLS",
+        "LATITUDE": 0.025764,
+        "LONGITUDE": 34.623738,
+        "CLUSTER": true,
+        "MEAN_GRADE": 10.05
+      },
+      "geometry": { "type": "Point", "coordinates": [34.623738, 0.025764] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 3,
+        "SCHOOL": "BURA  GIRLS HIGH SCHOOL",
+        "COUNTY": "TAITA TAVETA",
+        "CODE": 1100004,
+        "TYPE": "GIRLS",
+        "LATITUDE": -3.45224,
+        "LONGITUDE": 38.312476,
+        "CLUSTER": true,
+        "MEAN_GRADE": 7.5
+      },
+      "geometry": { "type": "Point", "coordinates": [38.312476, -3.45224] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 4,
+        "SCHOOL": "CHOGORIA GIRLS HIGH SCHOOL",
+        "COUNTY": "THARAKA NITHI",
+        "CODE": 19300004,
+        "TYPE": "GIRLS",
+        "LATITUDE": -0.230026,
+        "LONGITUDE": 37.625877,
+        "CLUSTER": true,
+        "MEAN_GRADE": 8.931
+      },
+      "geometry": { "type": "Point", "coordinates": [37.625877, -0.230026] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 5,
+        "SCHOOL": "FRIENDS SCHOOL KAMUSINGA",
+        "COUNTY": "BUNGOMA",
+        "CODE": 36600004,
+        "TYPE": "BOYS",
+        "LATITUDE": 0.794296,
+        "LONGITUDE": 34.705952,
+        "CLUSTER": true,
+        "MEAN_GRADE": 9.8
+      },
+      "geometry": { "type": "Point", "coordinates": [34.705952, 0.794296] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 6,
+        "SCHOOL": "GARISSA HIGH SCHOOL",
+        "COUNTY": "GARISSA",
+        "CODE": 45800001,
+        "TYPE": "GIRLS",
+        "LATITUDE": -0.452251,
+        "LONGITUDE": 39.648902,
+        "CLUSTER": true,
+        "MEAN_GRADE": 8.72
+      },
+      "geometry": { "type": "Point", "coordinates": [39.648902, -0.452251] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 7,
+        "SCHOOL": "KAGUMO HIGH SCHOOL",
+        "COUNTY": "KIRINYAGA",
+        "CODE": 8200007,
+        "TYPE": "BOYS",
+        "LATITUDE": -0.403798,
+        "LONGITUDE": 37.014535,
+        "CLUSTER": true,
+        "MEAN_GRADE": 9.54
+      },
+      "geometry": { "type": "Point", "coordinates": [37.014535, -0.403798] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 8,
+        "SCHOOL": "KAKAMEGA SCHOOL",
+        "COUNTY": "KAKAMEGA",
+        "CODE": 3700001,
+        "TYPE": "BOYS",
+        "LATITUDE": 0.271706,
+        "LONGITUDE": 34.748062,
+        "CLUSTER": true,
+        "MEAN_GRADE": 9.8
+      },
+      "geometry": { "type": "Point", "coordinates": [34.748062, 0.271706] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 9,
+        "SCHOOL": "KAPSABET BOYS HIGH SCHOOL",
+        "COUNTY": "NANDI",
+        "CODE": 345000017,
+        "TYPE": "BOYS",
+        "LATITUDE": 0.202816,
+        "LONGITUDE": 35.117861,
+        "CLUSTER": true,
+        "MEAN_GRADE": 10.157
+      },
+      "geometry": { "type": "Point", "coordinates": [35.117861, 0.202816] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 10,
+        "SCHOOL": "KANGA HIGH SCHOOL",
+        "COUNTY": "MIGORI",
+        "CODE": 44700006,
+        "TYPE": "BOYS",
+        "LATITUDE": -0.811703,
+        "LONGITUDE": 34.589175,
+        "CLUSTER": true,
+        "MEAN_GRADE": 9.3
+      },
+      "geometry": { "type": "Point", "coordinates": [34.589175, -0.811703] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 11,
+        "SCHOOL": "KARIMA HIGH SCHOOL",
+        "COUNTY": "NYANDARUA",
+        "CODE": 7200009,
+        "TYPE": "GIRLS",
+        "LATITUDE": -0.500548,
+        "LONGITUDE": 36.588558,
+        "CLUSTER": true,
+        "MEAN_GRADE": 10.5
+      },
+      "geometry": { "type": "Point", "coordinates": [36.588558, -0.500548] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 12,
+        "SCHOOL": "KIPSIGIS GIRLS HIGH SCHOOL",
+        "COUNTY": "KERICHO",
+        "CODE": 28500005,
+        "TYPE": "GIRLS",
+        "LATITUDE": -0.380202,
+        "LONGITUDE": 35.249767,
+        "CLUSTER": true,
+        "MEAN_GRADE": 9.1
+      },
+      "geometry": { "type": "Point", "coordinates": [35.249767, -0.380202] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 13,
+        "SCHOOL": "KISII HIGH SCHOOL",
+        "COUNTY": "KISII",
+        "CODE": 40700002,
+        "TYPE": "BOYS",
+        "LATITUDE": -0.686748,
+        "LONGITUDE": 34.784023,
+        "CLUSTER": true,
+        "MEAN_GRADE": 9.12
+      },
+      "geometry": { "type": "Point", "coordinates": [34.784023, -0.686748] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 14,
+        "SCHOOL": "MACHAKOS BOYS HIGH SCHOOL",
+        "COUNTY": "MACHAKOS",
+        "CODE": 12300001,
+        "TYPE": "BOYS",
+        "LATITUDE": -1.515478,
+        "LONGITUDE": 37.25842,
+        "CLUSTER": true,
+        "MEAN_GRADE": 7.7
+      },
+      "geometry": { "type": "Point", "coordinates": [37.25842, -1.515478] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 15,
+        "SCHOOL": "MAKUENI BOYS HIGH SCHOOL",
+        "COUNTY": "MAKUENI",
+        "CODE": 18300003,
+        "TYPE": "BOYS",
+        "LATITUDE": -1.79547,
+        "LONGITUDE": 37.622283,
+        "CLUSTER": true,
+        "MEAN_GRADE": 8.816
+      },
+      "geometry": { "type": "Point", "coordinates": [37.622283, -1.79547] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 16,
+        "SCHOOL": "LUGULU GIRLS HIGH SCHOOL",
+        "COUNTY": "BUNGOMA",
+        "CODE": 36600002,
+        "TYPE": "GIRLS",
+        "LATITUDE": 0.659652,
+        "LONGITUDE": 34.754504,
+        "CLUSTER": true,
+        "MEAN_GRADE": 9.75
+      },
+      "geometry": { "type": "Point", "coordinates": [34.754504, 0.659652] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 17,
+        "SCHOOL": "MAMA NGINA GIRLS HIGH SCHOOL",
+        "COUNTY": "MOMBASA",
+        "CODE": 3100001,
+        "TYPE": "GIRLS",
+        "LATITUDE": -4.071492,
+        "LONGITUDE": 39.673261,
+        "CLUSTER": true,
+        "MEAN_GRADE": 8.09
+      },
+      "geometry": { "type": "Point", "coordinates": [39.673261, -4.071492] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 18,
+        "SCHOOL": "MARANDA HIGH SCHOOL",
+        "COUNTY": "SIAYA",
+        "CODE": 42700005,
+        "TYPE": "BOYS",
+        "LATITUDE": -0.087993,
+        "LONGITUDE": 34.227681,
+        "CLUSTER": true,
+        "MEAN_GRADE": 9.6975
+      },
+      "geometry": { "type": "Point", "coordinates": [34.227681, -0.087993] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 19,
+        "SCHOOL": "MERU SCHOOL",
+        "COUNTY": "MERU",
+        "CODE": 18300002,
+        "TYPE": "BOYS",
+        "LATITUDE": 0.068001,
+        "LONGITUDE": 37.648034,
+        "CLUSTER": true,
+        "MEAN_GRADE": 9.336
+      },
+      "geometry": { "type": "Point", "coordinates": [37.648034, 0.068001] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 20,
+        "SCHOOL": "MOI GIRLS HIGH SCHOOL ISINYA",
+        "COUNTY": "KAJIADO",
+        "CODE": 31500011,
+        "TYPE": "GIRLS",
+        "LATITUDE": 0.520485,
+        "LONGITUDE": 35.287,
+        "CLUSTER": true,
+        "MEAN_GRADE": 8.7
+      },
+      "geometry": { "type": "Point", "coordinates": [35.287, 0.520485] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 21,
+        "SCHOOL": "MOI HIGH SCHOOL MBIRURI",
+        "COUNTY": "EMBU",
+        "CODE": 14300006,
+        "TYPE": "BOYS",
+        "LATITUDE": -0.425571,
+        "LONGITUDE": 37.564573,
+        "CLUSTER": true,
+        "MEAN_GRADE": 8.4
+      },
+      "geometry": { "type": "Point", "coordinates": [37.564573, -0.425571] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 22,
+        "SCHOOL": "MURANG'A HIGH SCHOOL",
+        "COUNTY": "MURAN'GA",
+        "CODE": 10200008,
+        "TYPE": "GIRLS",
+        "LATITUDE": -0.720883,
+        "LONGITUDE": 37.144908,
+        "CLUSTER": true,
+        "MEAN_GRADE": 9.72
+      },
+      "geometry": { "type": "Point", "coordinates": [37.144908, -0.720883] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 23,
+        "SCHOOL": "MUTHALE GIRLS HIGH SCHOOL",
+        "COUNTY": "KITUI",
+        "CODE": 13300005,
+        "TYPE": "GIRLS",
+        "LATITUDE": -1.184068,
+        "LONGITUDE": 38.00145,
+        "CLUSTER": true,
+        "MEAN_GRADE": 8.79
+      },
+      "geometry": { "type": "Point", "coordinates": [38.00145, -1.184068] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 24,
+        "SCHOOL": "PANGANI GIRL'S HIGH SCHOOL",
+        "COUNTY": "NAIROBI",
+        "CODE": 20400006,
+        "TYPE": "GIRLS",
+        "LATITUDE": -1.269104,
+        "LONGITUDE": 36.837528,
+        "CLUSTER": true,
+        "MEAN_GRADE": 9.841
+      },
+      "geometry": { "type": "Point", "coordinates": [36.837528, -1.269104] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 25,
+        "SCHOOL": "NYABURURU GIRL'S HIGH SCHOOL",
+        "COUNTY": "KISII",
+        "CODE": 40700003,
+        "TYPE": "GIRLS",
+        "LATITUDE": -0.652607,
+        "LONGITUDE": 34.750978,
+        "CLUSTER": true,
+        "MEAN_GRADE": 8.631
+      },
+      "geometry": { "type": "Point", "coordinates": [34.750978, -0.652607] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 26,
+        "SCHOOL": "RIBE BOYS HIGH SCHOOL",
+        "COUNTY": "KILIFI",
+        "CODE": 4100002,
+        "TYPE": "BOYS",
+        "LATITUDE": -3.887562,
+        "LONGITUDE": 39.631948,
+        "CLUSTER": true,
+        "MEAN_GRADE": 6.592
+      },
+      "geometry": { "type": "Point", "coordinates": [39.631948, -3.887562] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 27,
+        "SCHOOL": "ST. PATRICK'S HIGH SCHOOL ITEN",
+        "COUNTY": "ELGEYO MARAKWET",
+        "CODE": 34500010,
+        "TYPE": "BOYS",
+        "LATITUDE": 0.673985,
+        "LONGITUDE": 35.505433,
+        "CLUSTER": true,
+        "MEAN_GRADE": 9.72
+      },
+      "geometry": { "type": "Point", "coordinates": [35.505433, 0.673985] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 28,
+        "SCHOOL": "ST . BRIGITS GIRLS HIGH SCHOOL KIMININI",
+        "COUNTY": "KAKAMEGA",
+        "CODE": 23500003,
+        "TYPE": "GIRLS",
+        "LATITUDE": 0.890663,
+        "LONGITUDE": 34.922065,
+        "CLUSTER": true,
+        "MEAN_GRADE": 9.92
+      },
+      "geometry": { "type": "Point", "coordinates": [34.922065, 0.890663] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 29,
+        "SCHOOL": "ST .THERESA'S TARTER GIRLS HIGH SCHOOL",
+        "COUNTY": "WEST POKOT",
+        "CODE": 245000004,
+        "TYPE": "GIRLS",
+        "LATITUDE": 1.259356,
+        "LONGITUDE": 35.093343,
+        "CLUSTER": true,
+        "MEAN_GRADE": 9.23
+      },
+      "geometry": { "type": "Point", "coordinates": [35.093343, 1.259356] }
+    }
+  ]
+}
